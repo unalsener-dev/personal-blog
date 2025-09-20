@@ -3,6 +3,7 @@
 Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesidir.
 
 
+---
 
 ## 📌 Özellikler
 
@@ -16,12 +17,14 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 - Site **Vercel domaini** altında yayına alınmıştır.
 
 
+---
 
 ## 🚀 Canlı Yayın
 
 [Buradan canlı olarak siteyi görüntüleyebilirsiniz](https://personal-blog-eight-virid.vercel.app/)
 
 
+---
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -31,10 +34,10 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 - Vercel (deployment için)
 
 
+---
 
 ## 📬 İletişim
 
 - 📧 E-posta: unalsener0488@gmail.com  
 - 💻 [GitHub](https://github.com/unalsener-dev)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/%C3%BCnal-%C5%9Fener-7b12712ab/)
-
