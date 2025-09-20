@@ -4,6 +4,7 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 
 
 ## 📌 Özellikler
+
 - Kendimi tanıtan metin, hobilerim, hedeflerim ve becerilerim.
 - Sayfada **metin, resim ve video** bulunmaktadır.  
   - Video, sayfa içinde gömülü şekilde oynatılabilir.
@@ -15,10 +16,12 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 
 
 ## 🚀 Canlı Yayın
+
 [Buradan canlı olarak siteyi görüntüleyebilirsiniz](https://personal-blog-eight-virid.vercel.app/)
 
 
 ## 🛠️ Kullanılan Teknolojiler
+
 - **HTML5**
 - **CSS3**
 - **JavaScript**
