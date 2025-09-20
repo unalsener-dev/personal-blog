@@ -3,6 +3,7 @@
 Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesidir.
 
 
+
 ## 📌 Özellikler
 
 - Kendimi tanıtan metin, hobilerim, hedeflerim ve becerilerim.
@@ -15,9 +16,11 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 - Site **Vercel domaini** altında yayına alınmıştır.
 
 
+
 ## 🚀 Canlı Yayın
 
 [Buradan canlı olarak siteyi görüntüleyebilirsiniz](https://personal-blog-eight-virid.vercel.app/)
+
 
 
 ## 🛠️ Kullanılan Teknolojiler
@@ -26,6 +29,8 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 - **CSS3**
 - **JavaScript**
 - Vercel (deployment için)
+
+
 
 ## 📬 İletişim
 
