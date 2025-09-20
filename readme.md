@@ -18,9 +18,7 @@ https://personal-blog-eight-virid.vercel.app/
 ## 📞 İletişim
 
 Ünal Şener - [unalsener0488@gmail.com](mailto:unalsener0488@gmail.com)  
-Proje Linki: [https://github.com/unalsener-dev/kisisel-blog](https://github.com/unalsener-dev/kisisel-blog)  
-*(Not: GitHub repo linkinizi buraya eklemeyi unutmayın)*
-
+Proje Linki: https://github.com/unalsener-dev/personal-blog
 ---
 
 **Süleyman Demirel Üniversitesi**  
@@ -28,3 +26,4 @@ Proje Linki: [https://github.com/unalsener-dev/kisisel-blog](https://github.com/
 **Öğrenci No: 2316501415**  
 
 **Web Teknolojileri ve Programlama Dersi - 2025-2026 Güz Dönemi**
+
