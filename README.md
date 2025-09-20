@@ -3,7 +3,7 @@
 Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesidir.
 
 
----
+
 
 ## 📌 Özellikler
 
@@ -17,7 +17,7 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 - Site **Vercel domaini** altında yayına alınmıştır.
 
 
----
+
 
 ## 🚀 Canlı Yayın
 
@@ -34,7 +34,7 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 - Vercel (deployment için)
 
 
----
+
 
 ## 📬 İletişim
 
