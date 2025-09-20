@@ -25,6 +25,8 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 - Vercel (deployment için)
 
 ## 📬 İletişim
-- 📧 [E-posta](mailto:unalsener0488@gmail.com)  
+
+- 📧 E-posta: unalsener0488@gmail.com  
 - 💻 [GitHub](https://github.com/unalsener-dev)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/%C3%BCnal-%C5%9Fener-7b12712ab/)
+
