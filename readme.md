@@ -5,9 +5,8 @@ Bu proje, **Web Teknolojileri ve Programlama** dersi kapsamında hazırlanmış 
 ## 🚀 Canlı Demo
 
 Siteyi şu adresten inceleyebilirsiniz:  
-[**https://unalsener.dev**](https://unalsener.dev)
+https://personal-blog-eight-virid.vercel.app/
 
-*(Not: Yukarıdaki link örnektir. Lütfen sitenizin gerçek canlı domain adresi ile değiştiriniz. Örneğin: `https://unal-blog.netlify.app` veya `https://www.unalsener.com`)*
 
 ## ✨ Özellikler
 
@@ -27,4 +26,5 @@ Proje Linki: [https://github.com/unalsener-dev/kisisel-blog](https://github.com/
 **Süleyman Demirel Üniversitesi**  
 **Bilgisayar Mühendisliği**  
 **Öğrenci No: 2316501415**  
+
 **Web Teknolojileri ve Programlama Dersi - 2025-2026 Güz Dönemi**
