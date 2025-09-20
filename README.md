@@ -24,7 +24,7 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 [Buradan canlı olarak siteyi görüntüleyebilirsiniz](https://personal-blog-eight-virid.vercel.app/)
 
 
----
+
 
 ## 🛠️ Kullanılan Teknolojiler
 
