@@ -16,17 +16,11 @@ Kendi kişisel bilgilerimi, hedeflerimi ve becerilerimi tanıtan bir web sitesid
 ## 🚀 Canlı Yayın
 [Buradan canlı olarak siteyi görüntüleyebilirsiniz](https://personal-blog-eight-virid.vercel.app/)
 
-## 🎥 Önizleme Videosu
-Aşağıdan sitenin kısa tanıtım videosunu izleyebilirsiniz:
-
-[![Önizleme Videosu](https://img.youtube.com/vi/vI5KJlIQ0ME/0.jpg)](https://www.youtube.com/watch?v=vI5KJlIQ0ME)
-
+## 🎥 Önizleme
+![Demo GIF](assets/demo.gif)
 
 ## 🛠️ Kullanılan Teknolojiler
 - **HTML5**
 - **CSS3**
 - **JavaScript**
 - Vercel (deployment için)
-
-## 📂 Kurulum
-Projeyi yerelde çalıştırmak için:
