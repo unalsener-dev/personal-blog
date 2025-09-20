@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <!-- Temel sayfa ayarları: Karakter seti UTF-8, görünüm mobil cihazlar için ayarlandı -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Sayfa başlığı -->
+  <title>Ünal Şener – Kişisel Blog</title>
+  <!-- Google Fonts'tan Inter yazı tipi -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <!-- Font Awesome ikon kütüphanesi -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+  <!-- Özel CSS dosyası -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigasyon Çubuğu (Navbar) - Ödev gereksinimi: Sayfanın üstünde navigation bar ve linkler -->
+  <nav class="navbar">
+    <div class="nav-inner">
+      <div class="menu">
+        <!-- Çalışır linkler: Sayfa içi bölümlere anchor linkleri -->
+        <a href="#about">Hakkımda</a>
+        <a href="#experience">Deneyimler</a>
+        <a href="#video">Video</a>
+        <a href="#contact">İletişim</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero (Anahtar) Bölümü: Kendini tanıtma -->
+  <header id="hero" class="hero">
+      <div class="hero-inner">
+    <!-- Avatar/Profil Resmi Alanı -->
+    <div class="avatar"><span></span></div>
+    <!-- İsim Soyisim -->
+    <h1>ÜNAL ŞENER</h1>
+    <!-- Rol/Meslek -->
+    <p class="role">Bilgisayar Mühendisliği Öğrencisi</p>
+
+    <!-- Alıntı -->
+    <p class="quote">"Geleceği tahmin etmenin en iyi yolu, onu yaratmaktır."</p>
+    <p class="quote-author">– Peter Drucker</p>
+  </div>  
+
+  <!-- Aşağı kaydırma oku -->
+  <a class="scroll" href="#about" aria-label="Aşağı kaydır">
+    <i class="fa-solid fa-chevron-down"></i>
+  </a>
+</header>
+
+  <!-- Hakkımda Bölümü - Ödev gereksinimi: Kendini tanıtan metin -->
+  <section id="about" class="about section">
+    <div class="container">
+      <h2 class="title">Hakkımda</h2>
+      <div class="about-grid">
+        <article class="card reveal">
+          <h3>Ben Kimim?</h3>
+          <p>Merhaba! Ben Ünal, Süleyman Demirel Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Teknolojiye ve yeniliklere olan merakım, beni bu alana yönlendiren en büyük tutkum oldu. Özellikle yapay zeka, makine öğrenmesi ve veri bilimi gibi alanlarda kendimi geliştirmekten büyük keyif alıyorum.</p>
+
+          <h3>Yol Haritam</h3>
+          <p>Hayata meraklı ve çözüm odaklı bir pencereden bakıyorum. Yeni şeyler öğrenmek, bir ekibin parçası olarak harika işler başarmak ve ürettiklerimle insanların hayatına dokunmak beni en çok motive eden şeyler. Kısa vadede .NET ekosisteminde güçlü projeler geliştirmek; uzun vadede ise yapay zekâ ve veri bilimi alanında uzmanlaşmak istiyorum. Kısacası, hem profesyonel hem de kişisel olarak sürekli daha iyiye gitmek benim en büyük hedefim.</p>
+
+          <h3>Hobilerim</h3>
+          <p>Yüzmek, suyun içinde adeta özgürleştiğim bir tutku. Fotoğraf çekmek ise anıları biriktirmenin ve estetiği yakalamanın en keyifli yolu. Yeni yerler görmek ufkumu genişletirken, kod yazmak ve düzenli çalışmak bana gerçek bir mutluluk veriyor. Öğrenmenin verdiği o tatmin hissi, benim için en güçlü motivasyon kaynağı.</p>
+        </article>
+
+        <!-- Teknik Beceriler Bölümü - Ödev gereksinimi: Becerilerin listesi -->
+        <aside class="card reveal">
+  <h3>Teknik Beceriler</h3>
+  <div class="skills-grid">
+    <div class="skill-card"><span class="skill-title">C</span><span class="level">Orta-İleri</span></div>
+    <div class="skill-card"><span class="skill-title">C++</span><span class="level">Orta-İleri</span></div>
+    <div class="skill-card"><span class="skill-title">C# / .NET</span><span class="level">Orta-İleri</span></div>
+    <div class="skill-card"><span class="skill-title">MAUI</span><span class="level">Başlangıç-Orta</span></div>
+    <div class="skill-card"><span class="skill-title">Java</span><span class="level">Orta-İleri</span></div>
+    <div class="skill-card"><span class="skill-title">Python</span><span class="level">Orta</span></div>
+    <div class="skill-card"><span class="skill-title">HTML5</span><span class="level">Orta-İleri</span></div>
+    <div class="skill-card"><span class="skill-title">CSS3</span><span class="level">Orta-İleri</span></div>
+    <div class="skill-card"><span class="skill-title">JavaScript</span><span class="level">Orta</span></div>
+    <div class="skill-card"><span class="skill-title">React</span><span class="level">Orta</span></div>
+    <div class="skill-card"><span class="skill-title">Node.js</span><span class="level">Başlangıç</span></div>
+    <div class="skill-card"><span class="skill-title">Git</span><span class="level">Orta-İleri</span></div>
+    <div class="skill-card"><span class="skill-title">AI/ML (LLM)</span><span class="level">Başlangıç</span></div>
+    <div class="skill-card"><span class="skill-title">SQL</span><span class="level">Orta-İleri</span></div>
+    <div class="skill-card"><span class="skill-title">LINQ</span><span class="level">Orta-İleri</span></div>
+    <div class="skill-card"><span class="skill-title">MVC Mimarisi</span><span class="level">Orta</span></div>
+    <div class="skill-card"><span class="skill-title">REST API</span><span class="level">Orta</span></div>
+  </div>
+</aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- Deneyimler Bölümü - Ödev gereksinimi: Neler yaptığını anlatan metin ve RESİM -->
+  <section id="experience" class="about section">
+    <div class="container">
+      <h2 class="title">Deneyimler</h2>
+      <div class="card reveal">
+        <div class="exp-grid">
+          <div class="exp-text">
+            <h3>Yazılım Stajyeri · Muğla Büyükşehir Belediyesi – Bilgi İşlem Daire Başkanlığı / Yazılım Şube Müdürlüğü</h3>
+            <p><strong>Tarih:</strong> 21.07.2025 - 15.08.2025</p>
+            <p>Bu yaz yazılım konulu stajımı tamamladım. Belediye projelerinde analiz, tasarım ve geliştirme süreçlerine destek verdim. Çok katmanlı mimari, Git ile versiyon kontrolü ve SQL ile veri işlemleri üzerine pratik yaptım; ekip içi iletişim ve dokümantasyon disiplinlerini deneyimledim.</p>
+            <p>Muğla Büyükşehir Belediyesi'nde geçirdiğim bu dönem, teknik yeteneklerimi geliştirmenin yanı sıra, bir projenin kamusal etkisini gözlemleme imkanı sundu. Yazılım Şube Müdürlüğü ekibinin değerli yönlendirmeleri sayesinde, bir takımın parçası olarak hareket etme ve büyük ölçekli projelerin dinamiklerini anlama konusunda önemli kazanımlar elde ettim. Bu staj, kariyerime başlarken benim için hem sağlam bir temel hem de ilham verici bir deneyim oldu.</p>
+          </div>
+          <!-- Resim - Ödev gereksinimi: Resim içermeli -->
+          <div class="exp-media">
+            <img src="images/yazilim_staj.jpg" alt="Staj Fotoğrafı" class="exp-image">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Video Bölümü - Ödev gereksinimi: Sayfaya gömülü, içeride oynatılabilir VİDEO -->
+  <section id="video" class="video section">
+    <div class="container">
+      <h2 class="title">Yapay Zeka Hakkında</h2>
+      <div class="video-wrap reveal">
+  <!-- YouTube'dan gömülü video. allow, allowfullscreen özellikleri sayfa içi oynatım için gerekli. -->
+  <iframe
+  src="https://www.youtube.com/embed/eQxUBkG503Q?rel=0&modestbranding=1"
+  title="What is AI? (Kurzgesagt)"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  loading="lazy"
+  allowfullscreen
+  ></iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- İletişim Bölümü -->
+  <section id="contact" class="contact section">
+    <div class="container">
+      <h2 class="title">İletişim</h2>
+      <div class="contact-grid">
+        <a class="card reveal" href="mailto:unalsener0488@gmail.com">
+          <i class="fa-solid fa-envelope"></i>
+          <h4>E-posta</h4>
+          <p>unalsener0488@gmail.com</p>
+        </a>
+        <a class="card reveal" href="https://github.com/unalsener-dev" target="_blank" rel="noopener">
+          <i class="fa-brands fa-github"></i>
+          <h4>GitHub</h4>
+          <p>github.com/unalsener-dev</p>
+        </a>
+        <a class="card reveal" href="https://www.linkedin.com/in/%C3%BCnal-%C5%9Fener-7b12712ab/" target="_blank" rel="noopener">
+          <i class="fa-brands fa-linkedin"></i>
+          <h4>LinkedIn</h4>
+          <p>linkedin.com/in/ünal-şener-7b12712ab</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer - Ödev gereksinimi: Sayfanın en altında footer, copyright simgesi, isim ve numara -->
+  <footer>
+    <!-- © Copyright simgesi, İsim - Ödev gereksinimi karşılanıyor -->
+    <p>© <span class="hl">ÜNAL ŞENER</span> · <span id="year"></span></p>
+    <!-- Öğrenci Numarası - Ödev gereksinimi karşılanıyor -->
+    <p>Öğrenci No: <span class="hl">2316501415</span> · SDÜ Bilgisayar Mühendisliği</p>
+  </footer>
+
+  <!-- JavaScript Dosyası -->
+  <script src="script.js"></script>
+</body>
+</html>
